@@ -5,6 +5,7 @@ import styles from '../../styles/Home.module.css'
 type Props = {
   title: string
 }
+const fjf = 'jflajlfas'
 
 export default function Home({ title = 'jflasjfkl' }: Props) {
   return (
